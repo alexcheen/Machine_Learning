@@ -4,45 +4,45 @@
 
 ### Machine Learning Algorithm 
 
--[] Logistic Regression
+-[ ] Logistic Regression
 
--[] SVM
+-[ ] SVM
 
--[] Decision Trees
+-[ ] Decision Trees
 
--[] Ensemble
+-[ ] Ensemble
 
--[] Naive Bayes
+-[ ] Naive Bayes
 
--[] PCA
+-[ ] PCA
 
--[] Regularization
+-[ ] Regularization
 
--[] Clustering
+-[ ] Clustering
 
--[] EM
+-[ ] EM
 
--[] Boosting
+-[ ] Boosting
 
 
 ### Python 
--[] Foundation
+-[ ] Foundation
 
--[] Functional Programming
+-[ ] Functional Programming
 
--[]	OOP
+-[ ]	OOP
 
--[] MultiThread
+-[ ] MultiThread
 
 
 ### python kit of machine learning
--[] numpy
+-[ ] numpy
 
--[] scikit-learning
+-[ ] scikit-learning
 
--[] scipy
+-[ ] scipy
 
--[] matplotlib
+-[ ] matplotlib
 
--[] pandas
+-[ ] pandas
 

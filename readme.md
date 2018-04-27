@@ -5,7 +5,7 @@
 
 ### Machine Learning Algorithm 
 
-- [ ] Logistic Regression
+- [ ] Linear Model
 - [ ] SVM
 - [ ] Decision Trees
 - [ ] Ensemble

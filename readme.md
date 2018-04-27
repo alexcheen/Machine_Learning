@@ -1,4 +1,4 @@
-#Machine Learning study note
+# Machine Learning study note
 
 
 ## to-do list
@@ -53,3 +53,5 @@ x.Cameron Davidson-Pilon. Bayesian Methods for Hackers- Probabilistic Programmin
 **Journal**
 >1.a
 2.b
+
+

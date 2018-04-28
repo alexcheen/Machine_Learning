@@ -5,7 +5,15 @@
 
 ### Machine Learning Algorithm 
 
-- [ ] Linear Model
+- [x] Linear Model
+	- [ ] Regression
+		
+		- [ ] Ridge, Lasso, Elastic Net
+	- [ ] Classification
+	- [ ] Training method
+		- [ ] GD
+	- [ ] Loss Function
+	- [ ] 
 - [ ] SVM
 - [ ] Decision Trees
 - [ ] Ensemble

@@ -1,3 +1,3 @@
 # ignore checkpoint directory .ipynb_checkpoints
-*/.ipynb_checkpoints/
+*/.ipynb_checkpoints
 .ipynb_checkpoints

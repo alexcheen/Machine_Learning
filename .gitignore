@@ -1,3 +1,4 @@
 # ignore checkpoint directory .ipynb_checkpoints
 /*/.ipynb_checkpoints
 .ipynb_checkpoints
+digit_recognize/data/
